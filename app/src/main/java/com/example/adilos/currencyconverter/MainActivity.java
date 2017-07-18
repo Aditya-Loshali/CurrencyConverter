@@ -18,7 +18,7 @@ public class MainActivity extends AppCompatActivity {
 
         // dollarField.animate().x(500).setDuration(2000);
 
-        dollarField.animate().scaleX(0.7f).setDuration(2000);
+        dollarField.animate().scaleX(0.8f).setDuration(2000);
 
         Double dollarAmount = Double.parseDouble(dollarField.getText().toString());
 
